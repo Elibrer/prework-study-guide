@@ -21,7 +21,7 @@ h1{
     text-align:center;
     font-size:50px;
     /*font-style:italic;*/
-    font-family:Oswald;
+    font-family:'Oswald';
     font-weight:bolder;
 
 }
@@ -45,6 +45,12 @@ ul{
 p{
     text-align:center;
     font-size:30px;
+    
+}
+
+ul{
+    font-family:'Oswald';
+    font-weight:lighter;
 }
 .card {
     width: 80%;
@@ -52,9 +58,3 @@ p{
     border: 5px solid purple;
     box-shadow: 5px 10px #A0406C;
   }
-.egg{
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid purple;
-    box-shadow: 5px 10px #A0406C;
-}
