@@ -26,21 +26,15 @@ N/A
 
 The usage of this webpage is simply to provide information and tools to refer to when working with HTML, CSS, Git, and JavaScript. The information on the website can be seen as a cheatsheet reference guide, that will benefit the user when working on their own software development projects. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](Images/screenshot.png)
+![alt text](assets/images/prework-study-guide-img.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
 ---
 
